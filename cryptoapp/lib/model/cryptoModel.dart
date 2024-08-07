@@ -25,7 +25,7 @@ class Cryptomodel {
         symbol: Json["symbol"],
         name: Json["name"],
         image: Json["image"],
-        current_price: Json["current_price"],
+        current_price: Json["current_price"],//plz add?.toDoube(), intitems um edak verum so...
         market_cap_rank: Json["market_cap_rank"],
         
         high_24h: Json["high_24h"],
